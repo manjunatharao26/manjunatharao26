@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manjunatharao26
-- 👀 I’m interested in ...Pega,SpringBoot,Jenkins,Docker,K8s,openshift container platform, Jfrog,DevOps,promethus,grafana,splunk,kibana,Python
-- 🌱 I’m currently learning ...spring boot
-- 💞️ I’m looking to collaborate on ...pega
+- 👀 I’m interested in ...Pega,SpringBoot,Jenkins,Docker,K8s,openshift container platform, Jfrog,DevOps,promethus,grafana,splunk,kibana,Python,js
+- 🌱 I’m currently learning ...spring boot,js,ts,helm
+- 💞️ I’m looking to collaborate on ...pega,springboot,k8s
 - 📫 How to reach me ...manjunatharao26@gmail.com
 
 <!---
